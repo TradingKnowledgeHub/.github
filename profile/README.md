@@ -16,15 +16,24 @@ You decide which conclusions to keep and which methods to adopt.
 
 ## Current stage
 
-**Under active development.** TKH is being refined around the learning-to-knowledge workflow. A public installation or testing release is not yet offered here.
+**Under active development; no public TKH installation or testing package is available.**
+
+The development version has been checked in selected examples of:
+
+- Reading saved articles and video transcripts alongside learning notes.
+- Asking questions about the current material and following the supporting references.
+- Previewing learning outputs and proposed Wiki or Playbook updates before confirming what to save.
+- Reopening saved versions and tracing references back to source passages.
+
+These are limited examples. Coverage across material types, follow-up conversations and long content is still being validated. Automatic knowledge building, complete playbook generation and expert review or adoption are not established capabilities. You remain responsible for deciding what to save and adopt.
 
 ## Part of the TAS direction
 
-- **[TradingAlphaSystem (TAS)](https://github.com/TradingAlphaSystem)** is the planned personal trading evolution workspace connecting trading analysis, learning and methods in practice.
+- **[TradingAlphaSystem (TAS)](https://github.com/TradingAlphaSystem)** is a personal trading evolution workspace in development, connecting trading analysis, learning and methods in practice.
 - **[TradingAlphaDNA (TAD)](https://github.com/TradingAlphaDNA)** focuses on learning from stock and options trading records.
 - **TKH** focuses on learning from educational materials and developing personal knowledge and playbooks.
 
-Cross-product integration is still being developed and evaluated.
+Shared-assistant workflows and selected product integrations are being implemented and validated. A complete cross-product review workflow is not yet publicly delivered.
 
 ## Co-create with us
 
@@ -37,4 +46,3 @@ This opens the existing TAS public GitHub Issue form and requires a GitHub accou
 ## Try TAD
 
 **[Try TAD](https://github.com/TradingAlphaDNA/tad-showcase)** for its current technical preview and testing instructions. This is the TAD preview, not a TKH release or a complete TAS workspace.
-
